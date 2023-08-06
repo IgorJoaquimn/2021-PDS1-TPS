@@ -1,0 +1,10 @@
+5
+João 50 NULL
+Maria 27 João
+Joana 6 Maria
+Carlos 30 João
+Gisele 2 Maria
+3
+Gisele João
+Carlos João
+Joana Maria
